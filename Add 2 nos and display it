@@ -1,0 +1,10 @@
+print("enter first number")
+firstnumber =input()  #input() print the no.
+
+print("enter second number")
+secondnumber =input()
+
+print("addition =",end=" ")  
+
+print(int(firstnumber)+int(secondnumber))   
+ 
